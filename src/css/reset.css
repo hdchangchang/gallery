@@ -1,0 +1,17 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif '微软雅黑';
+  box-sizing: border-box;
+}
+
+html,body {
+  width: 100%;
+  height: 100%;
+}
+
+.content{
+  width: 100%;
+  height: 100%;
+}
+
